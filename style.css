@@ -1,0 +1,50 @@
+/*using google font to style text*/
+/*title style*/
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Noto Sans', sans-serif;
+}
+
+/*content style*/
+p,a,input,label,textarea,span,ul,li{
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+/*envelope style*/
+#envelope{
+    margin-top:10px;
+    margin-left:800px
+}
+
+/*bell style*/
+#bell{
+    margin-top:10px;
+    margin-left:50px
+}
+
+/*user style*/
+#user{
+    margin-top:10px;
+    margin-left:50px
+}
+
+/*logout style*/
+#logout{
+    margin-top:10px;
+    margin-left:50px
+}
+
+/*button style*/
+#navsearchbtn{
+    background: #2cd4dc;
+    color: white;
+    padding: 3px 15px;
+    border-radius: 11px;
+}
+
+/*report area style*/
+#reportarea{
+    margin-top: 66px;
+    margin-left: 40px;
+    width: 1000px
+}
