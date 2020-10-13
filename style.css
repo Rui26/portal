@@ -48,3 +48,33 @@ p,a,input,label,textarea,span,ul,li{
     margin-left: 40px;
     width: 1000px
 }
+
+/*Company word style*/
+#companychosen{
+    margin-top: 100px;
+    margin-left: 650px;
+}
+
+/*company form style*/
+#companyform{
+    margin-top: 25px;
+    margin-left: 350px;
+}
+
+/*server word style*/
+#serverchosen{
+    margin-top: 40px;
+    margin-left:670px;
+}
+
+/*server form style*/
+#serverform{
+    margin-top: 25px;
+    margin-left: 344px;
+}
+
+/*login button style*/
+#loginbtn{
+    margin-top: 100px;
+    margin-left: 680px;
+}
