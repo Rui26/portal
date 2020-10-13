@@ -61,14 +61,14 @@ p,a,input,label,textarea,span,ul,li{
     margin-left: 350px;
 }
 
-/*server word style*/
-#serverchosen{
+/*survey word style*/
+#surveychosen{
     margin-top: 40px;
     margin-left:670px;
 }
 
-/*server form style*/
-#serverform{
+/*survey form style*/
+#surveyform{
     margin-top: 25px;
     margin-left: 344px;
 }
