@@ -39,23 +39,53 @@
 
     </nav>
 
-    <!--put all content in the middle of line-->
-
+    <!--using container-->
+    <div class="container-fluid">
 
     <!--first line(choose company)-->
-
+        <div class="row">
+                <h1 id="companychosen">Company</h1>
+        </div>
+        
+        <!--option form1-->
+        <div class="row">
+            <div id="companyform" class="form-group col-md-6">
+                <select id="inputCompany" class="form-control form-control-lg">
+                  <option selected>choose...</option>
+                  <option>QUT</option>
+                  <option>Culture Rader</option>
+                </select>
+            </div>
+        </div>
 
 
 
     <!--second line(choose server)-->
+        <div class="row">
+            <h1 id="serverchosen">Server</h1>
+        </div>
+        
+        <!--option form2-->
+        <div calss="row">
+            <div id="serverform" class="form-group col-md-6">
+                <select id="inputServer" class="form-control form-control-lg">
+                  <option selected>Server1</option>
+                  <option>Server2</option>
+                  <option>Server3</option>
+                </select>
+            </div>
+        </div>
+    
 
 
+    <!--log in button-->
+        <div class="row">
+            <a id="loginbtn" href="portal.html">
+                <button type="submit" class="btn btn-outline-primary btn-lg">log in</button>
+            </a>
+        </div>
 
-    <!--login in button-->
-
-
-
-
+    </div>
 
     <!-- Optional JavaScript -->
         <!-- jQuery first, then Popper.js, then Bootstrap JS -->
