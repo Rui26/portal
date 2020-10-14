@@ -73,8 +73,34 @@ p,a,input,label,textarea,span,ul,li{
     margin-left: 344px;
 }
 
-/*login button style*/
-#loginbtn{
+/*continue button style*/
+#continuebtn{
     margin-top: 100px;
     margin-left: 680px;
+}
+
+/*login form style*/
+#loginform{
+    margin-top: 140px;
+    margin-left: 560px
+}
+
+/*user name and email address style*/
+#uneastyle{
+    margin-top: 20px;
+}
+
+/*password style*/
+#passwordstyle{
+    margin-top: 30px;
+}
+
+/*remember me style*/
+#remembermestyle{
+    margin-top: 20px;
+}
+
+/*login button*/
+#loginbtn{
+    margin-top: 50px;
 }
